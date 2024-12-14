@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="CommonModule.УлучшениеЭлементаСтраницы" id="71a5b4c4-d191-443a-b78f-0b8ffb9b996c" configVersion="4d29f862523d1ba8b128a3a0de2c8f11dd8a57d8"/>
+		<Metadata name="CommonModule.УлучшениеЭлементаСтраницы.Module" id="71a5b4c4-d191-443a-b78f-0b8ffb9b996c.0" configVersion="862cf3dcaa74de830006037ae78e5365dbe55df2"/>
+		<Metadata name="CommonModule.УлучшениеЭлементаСтраницыКлиентСервер" id="bcaf7181-f7e7-4fbe-ac41-8c09eb082660" configVersion="24b42d3efe87fff6b25e356a5f20ba80be9134f6"/>
+		<Metadata name="CommonModule.УлучшениеЭлементаСтраницыКлиентСервер.Module" id="bcaf7181-f7e7-4fbe-ac41-8c09eb082660.0" configVersion="78d2e01db3b424f0e59495a126415df83b58d0d6"/>
+		<Metadata name="Configuration.УлучшениеГруппыСтраниц" id="c92ddfa4-4fc9-4e30-ae8b-b17b7ce24412" configVersion="0fabf1be2b858a8583485e34543ec511a158aced"/>
+		<Metadata name="Language.Русский" id="07f5dfd7-b5e5-487b-81a8-83bf6562d195" configVersion="5fc27d0c1a8d404950df66bdd6c01d251d87f4fd"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
